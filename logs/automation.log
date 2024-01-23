@@ -1,0 +1,32 @@
+20:51:52.459 [main] INFO  api.test.TC001_UserTests - ********* Creating User *************
+20:51:54.745 [main] INFO  api.test.TC001_UserTests - ********* User is created *************
+20:51:54.764 [main] INFO  api.test.TC001_UserTests - ********* Reading User Info *************
+20:51:54.929 [main] INFO  api.test.TC001_UserTests - ********* User info is displayed *************
+20:51:54.934 [main] INFO  api.test.TC001_UserTests - ********* Updating User Information *************
+20:51:55.088 [main] INFO  api.test.TC001_UserTests - ********* User updated *************
+20:51:55.092 [main] INFO  api.test.TC001_UserTests - ********* Deleting User *************
+20:51:55.231 [main] INFO  api.test.TC001_UserTests - ********* Deleted User *************
+09:58:53.826 [main] INFO  api.test.TC003_UserTestsPropertiesRoutesURL - ********* Creating User *************
+10:03:04.764 [main] INFO  api.test.TC003_UserTestsPropertiesRoutesURL - ********* User is created *************
+10:03:24.061 [main] INFO  api.test.TC003_UserTestsPropertiesRoutesURL - ********* Reading User Info *************
+10:03:35.714 [main] INFO  api.test.TC003_UserTestsPropertiesRoutesURL - ********* User info is displayed *************
+10:03:35.730 [main] INFO  api.test.TC003_UserTestsPropertiesRoutesURL - ********* Updating User Information *************
+10:03:37.467 [main] INFO  api.test.TC003_UserTestsPropertiesRoutesURL - ********* User updated *************
+10:03:37.491 [main] INFO  api.test.TC003_UserTestsPropertiesRoutesURL - ********* Deleting User *************
+10:03:39.073 [main] INFO  api.test.TC003_UserTestsPropertiesRoutesURL - ********* Deleted User *************
+10:36:48.069 [main] INFO  api.test.TC003_UserTestsPropertiesRoutesURL - ********* Creating User *************
+10:36:50.166 [main] INFO  api.test.TC003_UserTestsPropertiesRoutesURL - ********* User is created *************
+10:36:50.183 [main] INFO  api.test.TC003_UserTestsPropertiesRoutesURL - ********* Reading User Info *************
+10:36:50.379 [main] INFO  api.test.TC003_UserTestsPropertiesRoutesURL - ********* User info is displayed *************
+10:36:50.382 [main] INFO  api.test.TC003_UserTestsPropertiesRoutesURL - ********* Updating User Information *************
+10:36:50.547 [main] INFO  api.test.TC003_UserTestsPropertiesRoutesURL - ********* User updated *************
+10:36:50.550 [main] INFO  api.test.TC003_UserTestsPropertiesRoutesURL - ********* Deleting User *************
+10:36:50.697 [main] INFO  api.test.TC003_UserTestsPropertiesRoutesURL - ********* Deleted User *************
+10:57:35.218 [main] INFO  api.test.TC003_UserTestsPropertiesRoutesURL - ********* Creating User *************
+10:57:37.467 [main] INFO  api.test.TC003_UserTestsPropertiesRoutesURL - ********* User is created *************
+10:57:37.481 [main] INFO  api.test.TC003_UserTestsPropertiesRoutesURL - ********* Reading User Info *************
+10:57:37.655 [main] INFO  api.test.TC003_UserTestsPropertiesRoutesURL - ********* User info is displayed *************
+10:57:37.657 [main] INFO  api.test.TC003_UserTestsPropertiesRoutesURL - ********* Updating User Information *************
+10:57:37.795 [main] INFO  api.test.TC003_UserTestsPropertiesRoutesURL - ********* User updated *************
+10:57:37.797 [main] INFO  api.test.TC003_UserTestsPropertiesRoutesURL - ********* Deleting User *************
+10:57:37.928 [main] INFO  api.test.TC003_UserTestsPropertiesRoutesURL - ********* Deleted User *************
