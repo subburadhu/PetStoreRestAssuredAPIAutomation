@@ -74,7 +74,7 @@ public class TC003_UserTestsPropertiesRoutesURL {
 		responseAfterUpdate.then().log().all();
 		Assert.assertEquals(responseAfterUpdate.getStatusCode(), 200);
 		
-		logger.info("********* User updated *************");
+		logger.info("********* User information is updated *************");
 	}
 	
 	@Test(priority=4)
